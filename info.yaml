@@ -8,8 +8,8 @@
 # Project metadata (used for documentation / review)
 # ======================================================
 project:
-  title: ""        # Project title (e.g. "Simple CPU", "PLL", "ADC")
-  author: ""       # Your name
+  title: "FULLADDER"        # Project title (e.g. "Simple CPU", "PLL", "ADC")
+  author: "NAOKI ARIYOSHI"       # Your name
   discord: ""      # Optional: Discord username (for support / communication)
   description: ""  # Short one-line description
 
@@ -21,7 +21,7 @@ gds:
   # - start with "tr_1um_"
   # - include your GitHub username (for uniqueness)
   # Example: tr_1um_jun1okamura
-  top_cell: "tr_1um_username"
+  top_cell: "tr_1um_naoki1016jp-creator"
 
   # File extension of layout
   extension: "gds"
